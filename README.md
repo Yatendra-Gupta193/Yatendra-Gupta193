@@ -71,7 +71,7 @@ Currently focused on strengthening my skills in **Software Development, Generati
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,mysql"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,mysql"/>
 
 ### Frontend
 
