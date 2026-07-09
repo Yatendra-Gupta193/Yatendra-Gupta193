@@ -41,23 +41,33 @@ Currently focused on strengthening my skills in **Software Development, Generati
 
 ---
 ## 🧑‍🤝‍🧑 Connect with Me
-<p align="center">
 
-<a href="https://www.linkedin.com/in/yatendra-kumar-gupta-b321a3326/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/yatendra-kumar-gupta-b321a3326/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<a href="https://www.hackerrank.com/profile/yatendra_g" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40" />
+<td width="40"></td>
+
+<td align="center">
+<a href="https://www.hackerrank.com/profile/yatendra_g">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<a href="https://leetcode.com/u/yatendrag/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="40" />
+<td width="40"></td>
+
+<td align="center">
+<a href="https://leetcode.com/u/yatendrag/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40">
 </a>
+</td>
 
-</p>
+</tr>
+</table>
 
 # 🛠 Tech Arsenal
 
