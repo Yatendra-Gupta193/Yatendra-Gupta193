@@ -44,14 +44,19 @@ Currently focused on strengthening my skills in **Software Development, Generati
 ---
 ## 🧑‍🤝‍🧑 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yatendra-kumar-gupta-b321a3326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yatendra-kumar-gupta-b321a3326/" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/yatendra_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/yatendra_g" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/https://leetcode.com/u/yatendrag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yatendrag/" height="30" width="40" /></a>
-
-
+<a href="https://www.linkedin.com/in/yatendra-kumar-gupta-b321a3326/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
 </a>
+
+<a href="https://www.hackerrank.com/profile/yatendra_g" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/yatendrag/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="40" />
+</a>
+
 </p>
 
 # 🛠 Tech Arsenal
@@ -81,7 +86,7 @@ Currently focused on strengthening my skills in **Software Development, Generati
 
 # 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=Yatendra-Gupta193&theme=blue-green&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yatendra-Gupta193&show_icons=true&theme=github_dark)
 
 ---
 
