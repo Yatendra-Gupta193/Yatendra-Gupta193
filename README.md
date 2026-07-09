@@ -50,15 +50,11 @@ Currently focused on strengthening my skills in **Software Development, Generati
 </a>
 </td>
 
-<td width="40"></td>
-
 <td align="center">
 <a href="https://www.hackerrank.com/profile/yatendra_g">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40">
 </a>
 </td>
-
-<td width="40"></td>
 
 <td align="center">
 <a href="https://leetcode.com/u/yatendrag/">
