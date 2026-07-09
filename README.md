@@ -34,8 +34,6 @@ Currently focused on strengthening my skills in **Software Development, Generati
 
 <td width="40%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yatendra-Gupta193&theme=tokyonight&row=2&column=3&no-frame=true"/>
-
 </td>
 
 </tr>
@@ -48,10 +46,12 @@ Currently focused on strengthening my skills in **Software Development, Generati
 <a href="https://www.linkedin.com/in/yatendra-kumar-gupta-b321a3326/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/profile/yatendra_g" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/yatendrag/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="40" />
@@ -81,12 +81,6 @@ Currently focused on strengthening my skills in **Software Development, Generati
 
 
 </div>
-
----
-
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yatendra-Gupta193&show_icons=true&theme=github_dark)
 
 ---
 
