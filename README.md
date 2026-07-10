@@ -83,7 +83,7 @@ Currently focused on strengthening my skills in **Software Development, Generati
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,Docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
 
 
 </div>
