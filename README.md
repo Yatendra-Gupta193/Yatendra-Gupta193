@@ -51,14 +51,14 @@ Currently focused on strengthening my skills in **Software Development, Generati
 </td>
 
 <td align="center">
-<a href="https://www.hackerrank.com/profile/yatendra_g">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40">
+<a href="https://leetcode.com/u/yatendrag/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40">
 </a>
 </td>
 
 <td align="center">
-<a href="https://leetcode.com/u/yatendrag/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40">
+<a href="https://www.hackerrank.com/profile/yatendra_g">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40">
 </a>
 </td>
 
@@ -83,12 +83,18 @@ Currently focused on strengthening my skills in **Software Development, Generati
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,Docker"/>
 
 
 </div>
 
 ---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yatendra-Gupta193&theme=blue-green&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ## 🚀 Featured Projects
 
