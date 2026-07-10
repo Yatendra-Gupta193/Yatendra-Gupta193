@@ -40,7 +40,8 @@ Currently focused on strengthening my skills in **Software Development, Generati
 </table>
 
 ---
-## 🧑‍🤝‍🧑 Connect with Me
+
+<h1 align="center">🧑‍🤝‍🧑 Connect with Me</h1>
 
 <table align="center">
 <tr>
@@ -65,11 +66,11 @@ Currently focused on strengthening my skills in **Software Development, Generati
 </tr>
 </table>
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+---
+
+<h1 align="center">🛠️ Tech Arsenal</h1>
 
 <div align="center">
-
----
 
 ### Languages
 
@@ -81,18 +82,21 @@ Currently focused on strengthening my skills in **Software Development, Generati
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,react,mongodb"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
+### Exploring Tools 
+
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,postman,docker"/>
 
 </div>
 
 ---
 
-<h2 align="center">🔥 GitHub Stats</h2>
+<h1 align="center">🔥 GitHub Stats</h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yatendra-Gupta193&theme=blue-green&hide_border=false" alt="GitHub Streak" />
@@ -100,7 +104,7 @@ Currently focused on strengthening my skills in **Software Development, Generati
 
 ---
 
-## 🚀 Featured Projects
+<h1 align="center">🚀 Featured Projects</h1>
 
 </div>
 
@@ -174,7 +178,8 @@ AI-powered PDF Question Answering Chatbot
 
 ---
 
-### ✍️ Random Dev Quote
+<h1 align="center">✍️ Random Dev Quote</h1>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
