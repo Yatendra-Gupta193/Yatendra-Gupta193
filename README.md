@@ -65,9 +65,11 @@ Currently focused on strengthening my skills in **Software Development, Generati
 </tr>
 </table>
 
-# 🛠 Tech Arsenal
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
+
+---
 
 ### Languages
 
@@ -90,11 +92,13 @@ Currently focused on strengthening my skills in **Software Development, Generati
 
 ---
 
-## 🔥 GitHub Streak
+<h2 align="center">🔥 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yatendra-Gupta193&theme=blue-green&hide_border=false" alt="GitHub Streak" />
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
