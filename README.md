@@ -33,7 +33,7 @@ Currently focused on strengthening my skills in **Software Development, Generati
 </td>
 
 <td width="40%" align="center" valign="middle">
-    <img src="./coding.gif" alt="Coding" width="700"/>
+    <img src="./coding.gif" alt="Coding" width="450"/>
 </td>
 
 </tr>
