@@ -99,7 +99,7 @@ Currently focused on strengthening my skills in **Software Development, Generati
 <h1 align="center">🔥 GitHub Stats</h1>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yatendra-Gupta193&theme=dracula" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yatendra-Gupta193&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 
