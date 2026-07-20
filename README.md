@@ -24,7 +24,7 @@ I enjoy combining:
 - 📚 Retrieval-Augmented Generation (RAG)
 - 💻 Full Stack Development
 - 🧠 Machine Learning & Intelligent Systems
-- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/11VbZrU7qUb91smn5OPJrXhCPnOrlvhD8/view)**
+- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1O9NXw0rjRYw42PsXZnav6eglWCjYepl0/view)**
 
 From developing **AI-powered RAG Document Assistants** to building **Content Localization Platforms** and **RAG Chatbots**, I enjoy solving real-world problems through practical AI applications.
 
