@@ -67,6 +67,12 @@ Currently focused on strengthening my skills in **Software Development, Generati
 </a>
 </td>
 
+<td align="center">
+<a href="https://www.geeksforgeeks.org/profile/littlecodr">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40">
+</a>
+</td>
+
 </tr>
 </table>
 
