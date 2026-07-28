@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&width=435&lines=Building+RAG+Applications;Learning+Generative+AI;Creating+Better+User+Experiences" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshucs22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Yatendra-Gupta193&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 # ⚡ Building Intelligent AI Applications with Modern Technologies
